@@ -1,1 +1,1 @@
-Um site básico, simples e direto que eu criei para ser usado em comércios locais.
+MCSITE é um site institucional desenvolvido especialmente para uma loja especializada em manutenção e reparo de projetores, com foco em apresentar os serviços oferecidos, garantir credibilidade ao negócio e facilitar o contato com os clientes.
